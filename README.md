@@ -36,7 +36,7 @@ yc=150
 """xp=np.array([70,0,0,70])  #EL LADO MAS LARGO DEL RECTANGULO ES EL DOBLE DEL RADIO DEL CIRCULO
 yp=np.array([0,0,35,35])"""
 #Si ocupamos estos numeros la figura no queda como la imagen, por lo que opte por utilizar 
-# el doble del diamtero del circulo como el lado mas largo del rectangulo radio=35 diametro =70 lado =2*diametro=140
+#--el doble del diamtero del circulo como el lado mas largo del rectangulo radio=35 diametro =70 lado =2*diametro=140
 
 xp=np.array([140,0,0,140])  
 yp=np.array([0,0,105,105])
